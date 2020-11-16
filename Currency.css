@@ -1,0 +1,54 @@
+.top{
+	height: 30px;
+	background-color: gray;
+}
+
+
+.header{
+	display: inline-block; 
+	width: 500px;
+    margin: 10px;
+    padding-bottom: 20px;
+    border: 2px dotted red;
+}
+.header li{
+	float: left;
+	margin-right: 25px;
+	border-bottom: 1px solid gray;
+}
+
+.goods{
+ 
+	width: 300px;
+	margin: 10px;
+}
+.lenta{
+	border: 2px dotted red;
+	color: orange;
+}
+.lenta h1{
+	text-align: center;
+}
+a{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	border-bottom: 2px solid orange;
+}
+.grafics{
+	display: table;
+	width: auto;
+	margin: 10px;
+	border: 2px dotted red;
+}
+.grafics td{
+	width: 100px;
+}
+td{
+	height: 25px;
+	border: 1px solid black;
+}
+button{
+	border-radius: 8px;
+}
